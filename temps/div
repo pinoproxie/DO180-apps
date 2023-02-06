@@ -1,0 +1,9 @@
+
+[student@workstation mio]$ cat /usr/local/etc/ocp4.config
+RHT_OCP4_MASTER_API=https://api.ocp4.example.com:6443
+RHT_OCP4_WILDCARD_DOMAIN=apps.ocp4.example.com
+RHT_OCP4_KUBEADM_PASSWD=WdBz8-mLKk9-yVN75-UhaiU
+RHT_OCP4_USER_PASSWD=redhat
+
+
+
