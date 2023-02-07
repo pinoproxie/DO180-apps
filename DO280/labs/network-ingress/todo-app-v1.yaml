@@ -5,7 +5,7 @@ metadata:
   labels:
     app: todo-http
     name: todo-http
-  namespace: network-ingress
+  namespace: pinoapp-entw
 spec:
   replicas: 1
   selector:
